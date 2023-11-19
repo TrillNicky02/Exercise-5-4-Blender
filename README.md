@@ -7,7 +7,7 @@ The result of following the classic donut Blender tutorial by Blender Guru.
 
 ## Implementation
 
-Created in Blender 3.6.5
+Created in Blender 4.0
 
 ## References
 
